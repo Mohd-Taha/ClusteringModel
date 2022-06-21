@@ -23,3 +23,5 @@ Inference from the model:
   - Customers with Cluster_Labels 2 are the customers with high number of transactions as compared to other customers. 
   - Customers with Cluster_Labels 2 are frequent buyers. 
   - Customers with Cluster_Labels 0 are not recent buyers and hence least of importance from business point of view
+
+(SCREENSHOTS FOR THE INFERENCE CAN BE SEEN IN REPORT)
